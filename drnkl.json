@@ -1,7 +1,7 @@
 {
-  "name": "darunCoin",
+  "name": "DKCoin",
   "symbol": "DRN",
-  "uri": "https://raw.githubusercontent.com/etedalpour/solana/refs/heads/main/drnkl.js",
+  "uri": "https://raw.githubusercontent.com/etedalpour/solana/refs/heads/main/drnkl.json",
   "seller_fee_basis_points": 0,
   "creators": null
 }
